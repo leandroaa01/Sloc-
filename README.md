@@ -21,13 +21,13 @@ This project was developed by José Carlos da Paz Silva [carlos.paz.707@ufrn.edu
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/selan-active-classes/t03-projeto-sloc-qwerty
+git clone https://github.com/leandroaa01/Sloc-.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd t03-projeto-sloc-qwerty
+cd Sloc-
 ```
 
 3. Compile and build the program using `cmake`:
@@ -49,14 +49,16 @@ Alternatively, you can compile this project without cmake, manually using C++ co
 
 1. Clone this repository:
 
+1. Clone this repository:
+
 ```bash
-git clone https://github.com/selan-active-classes/t03-projeto-sloc-qwerty
+git clone https://github.com/leandroaa01/Sloc-.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd t03-projeto-sloc-qwerty
+cd Sloc-
 ```
 
 3. Create a `build` directory:
